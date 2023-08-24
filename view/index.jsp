@@ -28,7 +28,7 @@ function AddFavorite(sURL, sTitle) {
 <body>
 <div class="content" style="overflow:visible;z-index:9999;" >
   //中国电信股份有限公司昆明分公司宽带销售页面测试
-    <a href="http://121.37.23.197:65533/web/yndx-2023-kdxm/yndxkdbl.html" target="_blank" class="bannger_inbox"><img src="/upfiles/829f3dd4-5641-4510-b8a6-e2698505b0ec.jpg" width="1920" height="425"></a>
+    <a href="http://121.37.23.197:65533/yndx-2023-kdxm/yndxkdbl.html" target="_blank" class="bannger_inbox"><img src="/upfiles/829f3dd4-5641-4510-b8a6-e2698505b0ec.jpg" width="1920" height="425"></a>
 </div>
   <!--底部悬浮-->
   <div class="bottom_box">
