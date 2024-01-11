@@ -5,8 +5,8 @@
 <script type="text/javascript" src="/dqmh/static/js/redirectProvince.js"></script>
 <script type="text/javascript" src="/js/jquery.cookiescc.js" ></script>
 <script type="text/javascript">
-$.cookie("cityCode", "yn", {path:"/",domain:".189.cn",expires:30*24});
-$.cookie("SHOPID_COOKIEID", "10025", {path:"/",domain:".189.cn",expires:30*24});
+$.cookie("cityCode", "yn", {path:"/",domain:"",expires:30*24});
+$.cookie("SHOPID_COOKIEID", "10025", {path:"/",domain:"",expires:30*24});
 
 function AddFavorite(sURL, sTitle) {
 	try {
@@ -22,7 +22,7 @@ function AddFavorite(sURL, sTitle) {
 </script>
 
 <title>昆明宽带销售测试</title>
-<meta content="自助服务频道是中国电信网上营业厅为用户提供的自助服务功能，本频道为用户提供缴费业务、话费查询、充值业务、流量业务等众多宽带的电信自助服务，自助服务频道您的贴身服务专家" name="description" />
+<meta content="自助服务频道是网上营业厅为用户提供的自助服务功能，本频道为用户提供缴费业务、话费查询、充值业务、流量业务等众多宽带的自助服务，自助服务频道您的贴身服务专家" name="description" />
 <meta content="充值缴费、交费助手充值，银行卡交费，银行卡充，充值卡充值，购买充值卡、3G升4G，宽带固话装移修进度查询，交费助手，提醒服务，手机上网流量包，手机上网加餐包，短信套餐" name="keywords" />
 </head>
 <body>
